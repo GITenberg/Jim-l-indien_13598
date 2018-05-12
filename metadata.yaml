@@ -23,6 +23,8 @@ creator:
     - http://en.wikipedia.org/wiki/Gustave_Aimard
     - http://fr.wikipedia.org/wiki/Gustave_Aimard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13598#Jim-l-indien
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-10-06'
 gutenberg_type: Text
